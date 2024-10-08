@@ -1,3 +1,5 @@
+POSTSCRIBERS PROJECT DESCRIPTION
+
 Requirements:
      crispy-bootstrap5==2024.2     (pip install django-bootstrap-v5)
      Django==5.0.6                 (pip install django==5.0.6)      
